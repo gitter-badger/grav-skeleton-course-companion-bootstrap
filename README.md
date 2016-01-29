@@ -5,7 +5,7 @@ The **Course Companion** skeleton is intended to accompany a face-to-face, blend
 **Table of Contents**  
 [Why Flip your LMS with Grav?](#why-flip-your-lms-with-grav)  
 [Why Use a Modern flat-file CMS?](#why-use-a-modern-flat-file-cms)  
-[Course Companion Screenshot](#course-companion-screenshot)  
+[Course Companion Bootstrap Screenshot](#course-companion-bootstrap-screenshot)  
 [Course Companion Highlights](#course-companion-highlights)  
 [Quick Install (Web server only)](#quick-install-web-server-only)  
 [Recommended Install (Desktop + Server)](#recommended-install-desktop--server)  
@@ -32,9 +32,9 @@ As an open source modern flat-file CMS, Grav offers a distinct set of advantages
   * Increased portability, as moving a site now only requires simply copying files to another location
   * All template and content files are 100% version controllable
 
-## Course Companion Screenshot
-![Course Companion Screenshot](/assets/screenshot-github-1.png)  
-_Figure 1. Example Grav Course Companion website, with GitHub collaborative editing enabled and Olark instant chat installed.  Explore the early release online at [demo.hibbittsdesign.org/grav-course-companion-bv/](http://demo.hibbittsdesign.org/grav-course-companion-bbootstrap/)_
+## Course Companion Bootstrap Screenshot
+![Course Companion Bootstrap Screenshot](/assets/screenshot-github-1.png)  
+_Figure 1. Example Grav Course Companion website, with GitHub collaborative editing enabled and Olark instant chat installed.  Explore the early release online at [demo.hibbittsdesign.org/grav-course-companion-bootstrap/](http://demo.hibbittsdesign.org/grav-course-companion-bootstrap/)_
 
 ## Course Companion Highlights
 * A complete ready-to-run Grav package (open source)
