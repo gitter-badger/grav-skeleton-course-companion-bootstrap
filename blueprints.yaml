@@ -11,3 +11,6 @@ demo: http://demo.hibbittsdesign.org/grav-course-companion-bootstrap/
 keywords: bootstrap, theme, framework
 bugs: https://github.com/hibbitts-design/grav-skeleton-course-companion-bootstrap/issues
 license: MIT
+
+dependencies:
+  - course-companion-bootstrap

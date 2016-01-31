@@ -1,7 +1,7 @@
 git:
     admin:
         url: https://github.com/getgrav/grav-plugin-admin
-        path: user/plugins/archives
+        path: user/plugins/admin
         branch: master
     archives:
         url: https://github.com/getgrav/grav-plugin-archives
@@ -13,7 +13,7 @@ git:
         branch: master
     email:
         url: https://github.com/getgrav/grav-plugin-email
-        path: user/plugins/featherlight
+        path: user/plugins/email
         branch: master
     error:
         url: https://github.com/getgrav/grav-plugin-error
@@ -21,7 +21,7 @@ git:
         branch: master
     external_links:
         url: https://github.com/Sommerregen/grav-plugin-external-links
-        path: user/plugins/error
+        path: user/plugins/external_links
         branch: master
     featherlight:
         url: https://github.com/getgrav/grav-plugin-featherlight
@@ -33,15 +33,15 @@ git:
         branch: master
     form:
         url: https://github.com/getgrav/grav-plugin-form
-        path: user/plugins/feed
+        path: user/plugins/form
         branch: master
     login:
         url: https://github.com/getgrav/grav-plugin-login
-        path: user/plugins/pagination
+        path: user/plugins/login
         branch: master
     page-inject:
         url: https://github.com/getgrav/grav-plugin-page-inject
-        path: user/plugins/pagination
+        path: user/plugins/page-inject
         branch: master
     pagination:
         url: https://github.com/getgrav/grav-plugin-pagination
@@ -50,6 +50,10 @@ git:
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
+        branch: master
+    relatedpages:
+        url: https://github.com/getgrav/grav-plugin-relatedpages
+        path: user/plugins/relatedpages
         branch: master
     simplesearch:
         url: https://github.com/getgrav/grav-plugin-simplesearch
@@ -63,13 +67,9 @@ git:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
         branch: master
-    antimatter:
-        url: https://github.com/getgrav/grav-theme-antimatter
-        path: user/themes/antimatter
-        branch: master
-    course-companion-bones-vanilla:
-        url: https://github.com/hibbitts-design/grav-theme-course-companion-bones-vanilla
-        path: user/themes/course-companion-bones-vanilla
+    course-companion-bootstrap:
+        url: https://github.com/hibbitts-design/grav-theme-course-companion-bootstrap
+        path: user/themes/course-companion-bootstrap
         branch: master
 links:
     admin:
@@ -124,23 +124,19 @@ links:
         src: grav-plugin-problems
         path: user/plugins/problems
         scm: github
+    relatedpages:
+        src: grav-plugin-relatedpages
+        path: user/plugins/relatedpages
+        scm: github
     simplesearch:
         src: grav-plugin-simplesearch
         path: user/plugins/simplesearch
-        scm: github
-    sitemap:
-        src: grav-plugin-sitemap
-        path: user/plugins/sitemap
         scm: github
     taxonomylist:
         src: grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
         scm: github
-    antimatter:
-        src: grav-theme-antimatter
-        path: user/themes/antimatter
-        scm: github
     course-companion-bones-vanilla:
-        src: grav-theme-course-companion-bones-vanilla
-        path: user/themes/course-companion-bones-vanilla
+        src: grav-theme-course-companion-bootstrap
+        path: user/themes/course-companion-bootstrap
         scm: github
