@@ -10,3 +10,7 @@ themes/*
 
 # OS Generated
 .DS_Store*
+thumbs.db
+Icon?
+Thumbs.db
+*.swp
