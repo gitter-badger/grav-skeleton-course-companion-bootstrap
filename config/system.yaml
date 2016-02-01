@@ -63,7 +63,7 @@ pages:
   ignore_hidden: true
   url_taxonomy_filters: true
 cache:
-  enabled: false
+  enabled: true
   check:
     method: file
   driver: auto
@@ -71,7 +71,7 @@ cache:
   lifetime: 604800
   gzip: false
 twig:
-  cache: false
+  cache: true
   debug: true
   auto_reload: true
   autoescape: false
