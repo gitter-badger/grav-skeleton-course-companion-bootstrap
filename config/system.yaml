@@ -14,7 +14,7 @@ languages:
 home:
   alias: /blog
 pages:
-  theme: course-companion-bootstrap
+  theme: course-companion-b3
   order:
     by: default
     dir: asc
