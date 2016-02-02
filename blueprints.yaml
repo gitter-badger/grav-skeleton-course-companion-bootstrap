@@ -1,7 +1,7 @@
 name: Course Companion Bootstrap Site
-version: 0.9.10
+version: 0.9.1
 description: "Grav Course Companion skeleton package using a modified Bootstrap theme, designed to support an open and collaborative flipped-LMS approach."
-icon: crosshairs
+icon: university
 author:
  name: Paul Hibbitts
  email: paul@paulhibbitts.org
