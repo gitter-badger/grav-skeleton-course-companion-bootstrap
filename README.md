@@ -41,7 +41,7 @@ _Figure 1. Example Grav Course Companion website, with GitHub collaborative edit
 * Blog-format, with important reminders & preparations areas
 * Site pages can be easily added/removed/changed
 * Sidebar is a simple markdown file, which can also contain HTML
-* URL flag to only display page content (for display within LMS). For example, [http://demo.hibbittsdesign.org/grav-course-companion-bv/blog/week-03/onlydisplaypagecontent:true](http://demo.hibbittsdesign.org/grav-course-companion-bootstrapv/blog/week-03/onlydisplaypagecontent:true)
+* URL flag to only display page content (for display within LMS). For example, [demo.hibbittsdesign.org/grav-course-companion-b3/blog/week-03/onlydisplaypagecontent:true](http://demo.hibbittsdesign.org/grav-course-companion-b3/blog/week-03/onlydisplaypagecontent:true)
 * External links are automatically opened in a new Tab/Window
 * Built-in support for entire site to be collaboratively maintained on GitHub
 * Since everything is built with Grav it can be _entirely_ customized
