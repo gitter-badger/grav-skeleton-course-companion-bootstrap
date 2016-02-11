@@ -1,4 +1,4 @@
-# Course Companion Bootstrap Skeleton (UNSUPPORTED)
+# Course Companion Bootstrap Skeleton (unreleased)
 
 The **Course Companion** skeleton is intended to accompany a face-to-face, blended or fully online university course. It supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using the modern flat-file (no database) Grav CMS as an open and collaborative Web platform.
 
