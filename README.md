@@ -119,7 +119,7 @@ Once you have confirmed that Grav is running locally on your computer, the final
       -/page.md
     - /03.syllabus | page.html.twig
       -/page.md
-    - /headerimage | default.html.twig (Course Companion B3 theme element)
+    - /headerimage | default.html.twig
       -/default.md
 ```
 
