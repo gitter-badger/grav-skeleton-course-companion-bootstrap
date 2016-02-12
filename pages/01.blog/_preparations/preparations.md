@@ -1,5 +1,6 @@
 ---
 title: 'Preparations'
+published: true
 ---
 
 <!--- Your weekly preparations content goes below here -->

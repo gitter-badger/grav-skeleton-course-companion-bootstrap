@@ -1,5 +1,6 @@
 ---
 title: 'Important Reminders'
+published: true
 ---
 
 <!--- Your important reminders content goes below here -->
