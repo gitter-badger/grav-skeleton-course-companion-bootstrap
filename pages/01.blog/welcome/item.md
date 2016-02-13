@@ -2,7 +2,7 @@
 title: 'Course Welcome'
 date: 01/04/2016
 icon: users
-header_image: '0'
+header_image: false
 continue_link: false
 ---
 Welcome to the multi-device friendly course companion for CPT-363 Spring 2016. To help orientate yourself to the course, explore the [course syllabus](../../syllabus).
