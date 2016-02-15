@@ -56,7 +56,7 @@ To learn more about how to most effectively use the Grav Course Companion, visit
 
 **Installation Steps**  
 
-1. Download the most current [release from this page](https://github.com/hibbitts-design/grav-skeleton-course-companion-b3/releases)
+1. Download the ready-to-run [Course Companion Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-companion-site.zip)
 2. Unzip the package onto your desktop  
 3. Copy the entire Grav Course Companion folder to your Web server  
 4. Point your browser to the Web server folder  
@@ -84,15 +84,17 @@ _Figure 2. Grav recommended install using Grav, GitHub, and Deploy to support a 
 
 **Desktop Installation Steps**  
 
-1. Download the most current [release from this page](https://github.com/hibbitts-design/grav-skeleton-course-companion-b3/releases)
-2. Copy the entire Grav Course Companion folder to your 'Documents' folder  
-3. Launch MAMP  
-4. Change the 'Document Root' MAMP preferences setting to your Grav folder (within 'Documents')  
-5. Press the MAMP 'Start Servers' button  
-6. Enter 'localhost:8888' as the URL in your Web Browser  
-7. Choose the displayed Grav folder name  
-8. Create your site administrator account when prompted  
-9. And you're done! (press the ![Right Arrow Circle Icon](/assets/fa-arrow-circle-right.png) icon in the Admin Panel to preview site)  
+1. Download the ready-to-run [Course Companion Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-companion-site.zip)
+2. Unzip the Grav package onto your desktop
+3. Create a folder called 'MAMP Websites' in your 'Documents' folder
+4. Copy the _entire_ Grav folder into your 'MAMP Websites' folder
+5. Launch MAMP
+6. Change the 'Document Root' MAMP preferences setting to the 'MAMP Websites' folder (within 'Documents')
+7. Press the MAMP 'Start Servers' button
+8. Enter 'localhost:8888' as the URL in your Web Browser
+9. Choose the displayed Grav folder name
+10. Create your site administrator account when prompted
+11. And you're done! (press the ![Right Arrow Circle Icon](/assets/fa-arrow-circle-right.png) icon in the Admin Panel to preview site)  
 
 Once you have confirmed that Grav is running locally on your computer, the final step is to create a Git server repository to store your site files and setup an automatic deployment service to push any changed files to your Web server. An example step-by-step walkthrough this process is available in the article [Using Grav with GitHub Desktop (and Deploy)](http://hibbittsdesign.org/blog/posts/using-grav-with-github-and-deploy).
 
