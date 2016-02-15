@@ -38,8 +38,9 @@ _Figure 1. Example Grav Course Companion website, with GitHub collaborative edit
 
 ## Course Companion Highlights
 * A complete ready-to-run Grav package (open source)
-* Blog-format, with important reminders & preparations areas
+* Blog-format, with important reminders & top sticky post
 * Site pages can be easily added/removed/changed
+* Image header area above site navbar
 * Sidebar is a simple markdown file, which can also contain HTML
 * URL flag to only display page content (for display within LMS). For example, [demo.hibbittsdesign.org/grav-course-companion-b3/blog/week-03/onlydisplaypagecontent:true](http://demo.hibbittsdesign.org/grav-course-companion-b3/blog/week-03/onlydisplaypagecontent:true)
 * External links are automatically opened in a new Tab/Window
@@ -139,7 +140,6 @@ menu:                     # menu entry for adding external sites/tools
       icon: arrow-circle-right
       url: http://getgrav.org/
 icon:                     # default font awesome icons for preparation and post entries
-    preparations: check-circle
     posts: calendar-o
 github:
     location: none         # menu | page | none

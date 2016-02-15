@@ -7,9 +7,8 @@ menu:                     # menu entry for adding external sites/tools
     - text: Grav
       icon: arrow-circle-right
       url: http://getgrav.org/
-icon:                     # default font awesome icons for preparation and post entries
-    preparations: check-circle
-    posts: calendar-o
+icon:                     # default font awesome icons for preparation and post entries    topstickypost: check-circle
+    post: calendar-o
 github:
     location: page         # menu | page | none
     tree: https://github.com/hibbitts-design/grav-skeleton-course-companion-bootstrap/edit/master/
