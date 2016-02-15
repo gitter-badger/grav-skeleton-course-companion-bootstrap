@@ -33,7 +33,7 @@ As an open source modern flat-file CMS, Grav offers a distinct set of advantages
   * All template and content files are 100% version controllable
 
 ## Course Companion Bootstrap Screenshot
-![Course Companion Bootstrap Screenshot](/assets/screenshot-github-1.jpg)  
+![Course Companion Bootstrap Screenshot](/assets/screenshot.jpg)  
 _Figure 1. Example Grav Course Companion website, with GitHub collaborative editing enabled and Olark instant chat installed.  Explore the early release online at [demo.hibbittsdesign.org/grav-course-companion-bootstrap/](http://demo.hibbittsdesign.org/grav-course-companion-b3/)_
 
 ## Course Companion Highlights
