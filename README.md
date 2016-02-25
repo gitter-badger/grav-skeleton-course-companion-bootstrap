@@ -1,12 +1,12 @@
-# Course Companion Bootstrap Skeleton (unreleased)
+# Course Hub Bootstrap Skeleton (unreleased)
 
-The **Course Companion** skeleton is intended to accompany a face-to-face, blended or fully online university course. It supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using the modern flat-file (no database) Grav CMS as an open and collaborative Web platform.
+The **Course Hub** skeleton is intended to accompany a face-to-face, blended or fully online university course. It supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using the modern flat-file (no database) Grav CMS as an open and collaborative Web platform.
 
 **Table of Contents**  
 [Why Flip your LMS with Grav?](#why-flip-your-lms-with-grav)  
 [Why Use a Modern flat-file CMS?](#why-use-a-modern-flat-file-cms)  
-[Course Companion Bootstrap Screenshot](#course-companion-bootstrap-screenshot)  
-[Course Companion Highlights](#course-companion-highlights)  
+[Course Hub Bootstrap Screenshot](#course-companion-bootstrap-screenshot)  
+[Course Hub Highlights](#course-companion-highlights)  
 [Quick Install (Web server only)](#quick-install-web-server-only)  
 [Recommended Install (Desktop + Server)](#recommended-install-desktop--server)  
 [Page Templates](#page-templates)  
@@ -32,11 +32,11 @@ As an open source modern flat-file CMS, Grav offers a distinct set of advantages
   * Increased portability, as moving a site now only requires simply copying files to another location
   * All template and content files are 100% version controllable
 
-## Course Companion Bootstrap Screenshot
-![Course Companion Bootstrap Screenshot](/assets/screenshot.jpg)  
-_Figure 1. Example Grav Course Companion website, with GitHub collaborative editing enabled and Olark instant chat installed.  Explore the early release online at [demo.hibbittsdesign.org/grav-course-companion-bootstrap/](http://demo.hibbittsdesign.org/grav-course-companion-b3/)_
+## Course Hub Bootstrap Screenshot
+![Course Hub Bootstrap Screenshot](/assets/screenshot.jpg)  
+_Figure 1. Example Grav Course Hub website, with GitHub collaborative editing enabled and Olark instant chat installed.  Explore the early release online at [demo.hibbittsdesign.org/grav-course-companion-bootstrap/](http://demo.hibbittsdesign.org/grav-course-companion-b3/)_
 
-## Course Companion Highlights
+## Course Hub Highlights
 * A complete ready-to-run Grav package (open source)
 * Blog-format, with important reminders & top sticky post
 * Site pages can be easily added/removed/changed
@@ -47,7 +47,7 @@ _Figure 1. Example Grav Course Companion website, with GitHub collaborative edit
 * Built-in support for entire site to be collaboratively maintained on GitHub
 * Since everything is built with Grav it can be _entirely_ customized
 
-To learn more about how to most effectively use the Grav Course Companion, visit [hibbittdesign.org](http://hibbittsdesign.org/blog/)
+To learn more about how to most effectively use the Grav Course Hub, visit [hibbittdesign.org](http://hibbittsdesign.org/blog/)
 
 ## Quick Install (Web server only)
 **Pre-flight Checklist**  
@@ -57,9 +57,9 @@ To learn more about how to most effectively use the Grav Course Companion, visit
 
 **Installation Steps**  
 
-1. Download the ready-to-run [Course Companion Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-companion-site.zip)
+1. Download the ready-to-run [Course Hub Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-companion-site.zip)
 2. Unzip the package onto your desktop  
-3. Copy the entire Grav Course Companion folder to your Web server  
+3. Copy the entire Grav Course Hub folder to your Web server  
 4. Point your browser to the Web server folder  
 5. Create your site administrator account when prompted  
 6. And you're done! (press the ![Right Arrow Circle Icon](/assets/fa-arrow-circle-right.png) icon in the Admin Panel to preview site)
@@ -85,7 +85,7 @@ _Figure 2. Grav recommended install using Grav, GitHub, and Deploy to support a 
 
 **Desktop Installation Steps**  
 
-1. Download the ready-to-run [Course Companion Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-companion-site.zip)
+1. Download the ready-to-run [Course Hub Skeleton Package](http://hibbittsdesign.org/blog/downloads/grav-skeleton-course-companion-site.zip)
 2. Unzip the Grav package onto your desktop
 3. Create a folder called 'MAMP Websites' in your 'Documents' folder
 4. Copy the _entire_ Grav folder into your 'MAMP Websites' folder
@@ -151,7 +151,7 @@ rssbutton:
 | Setting | Child Setting | Description                                                                                                            |
 |---------|---------------|------------------------------------------------------------------------------------------------------------------------|
 | title   |               | The course number/id, to be displayed at the top of every page.                                                      |
-| metadata  |  description | The short description of the course companion site                                       |
+| metadata  |  description | The short description of the course hub site                                       |
 | displaymenuentries  |  enabled | Can be set to `true` or `false`. When set to `true`, all defined menu items are added to the navbar.                                       |
 | menu  |  text | Text label for external links to be included on navbar                                       |
 | menu  |  icon | Font awesome icon code for external link (optional)                                        |
